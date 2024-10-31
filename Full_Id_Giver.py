@@ -2,7 +2,7 @@ import requests
 import time
 
 # Your bot token and API base URL
-BOT_TOKEN = "825572072:zkvLk8vHL7TlXDpFDoaGHQZdnRHEbWQYarkC8NEO"
+BOT_TOKEN = "Token"
 BASE_URL = f"https://tapi.bale.ai/bot{BOT_TOKEN}"
 
 def send_message(chat_id, text):
